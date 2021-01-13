@@ -1,0 +1,36 @@
+.sec{
+    background-color: #B784A7 !important ;
+}
+.text {
+    position: absolute;
+    bottom: 150px;
+    left: 550px; 
+    
+}
+.imgs {
+    position: absolute;
+    bottom: 50px;
+    
+}
+.don {
+    background-color: #B784A7;
+
+}
+.sec-ii {
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    bottom: 350px;
+    right: 350px;
+    
+}
+.sec-iii {
+    position: absolute;
+    bottom: 0;
+    left: 200px;
+}
+.sec-iv {
+    position: absolute;
+    right: 0;
+    bottom: 50px;
+}
